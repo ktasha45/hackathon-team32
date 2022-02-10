@@ -1,1 +1,1 @@
-# hackathon-team32
+# qiskit-hackathon-korea-2022
